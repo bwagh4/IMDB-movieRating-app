@@ -1,0 +1,6 @@
+@import url("https://media.umrahme.com/prod/assets/css/style.bundle.min.css");
+
+.card-blur{
+    backdrop-filter: blur(10px);
+    background-color: rgb(255 255 255 / 32%)!important;
+}
